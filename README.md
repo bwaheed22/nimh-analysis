@@ -7,3 +7,10 @@ Mental illnesses pose a profound burden to individuals and society, affecting ne
 
 ## Results
 
+<p align = 'center'>
+  <img src = '/plots/comparison_chart.png'>
+</p>
+
+<p align = 'center'>
+  <img src = '/plots/funding_per_pi.png'>
+    </p>
