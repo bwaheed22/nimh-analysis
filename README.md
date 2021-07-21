@@ -1,10 +1,3 @@
-.
-├── analysis        # Analysis scripts
-├── plots           # Generated plots
-├── final_paper     # Final writeup and presentation slides
-└── README.md
-
-
 # Assessing Innovation in Mental Health Research
 ### An Analysis of Junior and Senior NIMH Principal Investigators between FY2010 and 2018
 
